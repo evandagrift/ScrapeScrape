@@ -1,0 +1,1 @@
+System.Linq.Enumerable+WhereEnumerableIterator`1[HtmlAgilityPack.HtmlNode]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkvc7CafBJEpszj67uMPKL2lvi+GJlQnZRL1x0sdwaqPnDPHHGhK9nvw01fi8fJwx2VQywFMTG4ANgsE8bR1Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elodin\\Desktop\\School\\Fall\\Side Project\\ScraperTest\\ScraperTest\\ScraperTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elodin\\.nuget\\packages\\htmlagilitypack\\1.11.26\\htmlagilitypack.1.11.26.nupkg.sha512"
+  ],
+  "logs": []
+}

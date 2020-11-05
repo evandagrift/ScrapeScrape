@@ -1,0 +1,15 @@
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\bin\Debug\netcoreapp3.1\ScraperTest.exe
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\bin\Debug\netcoreapp3.1\ScraperTest.deps.json
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\bin\Debug\netcoreapp3.1\ScraperTest.runtimeconfig.json
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\bin\Debug\netcoreapp3.1\ScraperTest.runtimeconfig.dev.json
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\bin\Debug\netcoreapp3.1\ScraperTest.dll
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\bin\Debug\netcoreapp3.1\ScraperTest.pdb
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\obj\Debug\netcoreapp3.1\ScraperTest.csprojAssemblyReference.cache
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\obj\Debug\netcoreapp3.1\ScraperTest.AssemblyInfoInputs.cache
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\obj\Debug\netcoreapp3.1\ScraperTest.AssemblyInfo.cs
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\obj\Debug\netcoreapp3.1\ScraperTest.dll
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\obj\Debug\netcoreapp3.1\ScraperTest.pdb
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\obj\Debug\netcoreapp3.1\ScraperTest.genruntimeconfig.cache
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\obj\Debug\netcoreapp3.1\ScraperTest.csproj.CoreCompileInputs.cache
+C:\Users\Elodin\Desktop\School\Fall\Side Project\ScraperTest\ScraperTest\obj\Debug\netcoreapp3.1\ScraperTest.csproj.CopyComplete
